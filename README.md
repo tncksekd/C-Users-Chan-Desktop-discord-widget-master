@@ -1,9 +1,9 @@
 # Discord Widget
 ## Code Snippet
-    <script type="text/javascript" src="//cdn.jsdelivr.net/gh/restingcoder/discord-widget@1.1/discord-widget.min.js"></script>
+    <script type="text/javascript" src="//https://github.com/tncksekd/C-Users-Chan-Desktop-discord-widget-master/blob/master/discord-widget.min.js"></script>
     <script type="text/javascript">
         discordWidget.init({
-            serverId: '51143782082543616',
+            serverId: '522952721175674912',
             title: 'Discord Widget Title',
             join: true,
             joinText: 'Join Server',

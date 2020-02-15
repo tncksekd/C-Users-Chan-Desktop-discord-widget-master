@@ -4,7 +4,7 @@
     <script type="text/javascript">
         discordWidget.init({
             serverId: '522952721175674912',
-            title: 'Discord Widget Title',
+            title: '<iframe src="https://discordapp.com/widget?id=522952721175674912&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>',
             join: true,
             joinText: 'Join Server',
             alphabetical: false,
